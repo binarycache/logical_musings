@@ -74,7 +74,8 @@ default_badges:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-theme: minima
+#theme: jekyll-theme-basically-basic
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -91,7 +92,8 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 titles_from_headings:
   enabled:     true
