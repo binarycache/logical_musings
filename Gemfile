@@ -11,8 +11,8 @@ gem "jekyll", "~> 4.0.0"
 # gem "github-pages", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-basically-basic"
-# gem "minima"
+# gem "jekyll-theme-basically-basic"
+gem "minima"
 
 
 # To upgrade, run `bundle update github-pages`.
